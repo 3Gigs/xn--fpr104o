@@ -1,4 +1,5 @@
 xn--fpr104o, or 鸣叫, also known as Honk
+Forked from [tedunangst.com](https://humungus.tedunangst.com/r/honk)
 
 -- features
 
@@ -24,7 +25,7 @@ You'll need a go compiler version 1.16 or later. And libsqlite3.
 
 Even on a fast machine, building from source can take several seconds.
 
-Development sources: hg clone https://humungus.tedunangst.com/r/honk
+Development sources: git clone git@github.com:3Gigs/xn--fpr104o.git
 
 -- setup
 
